@@ -7825,22 +7825,22 @@ dimwishlist:item=1197486957&perks=1840239774,1087426260,2010801679,2213355989#no
 
 
 
-dimwishlist:item=20935540&perks=839105230,106909392,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=1840239774,106909392,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=839105230,1087426260,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=1840239774,1087426260,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=839105230,106909392,3400784728,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=1840239774,106909392,3400784728,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=839105230,1087426260,3400784728,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=1840239774,1087426260,3400784728,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=839105230,106909392,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=1840239774,106909392,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=839105230,1087426260,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=1840239774,1087426260,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=839105230,106909392,3400784728,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=1840239774,106909392,3400784728,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=839105230,1087426260,3400784728,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
-dimwishlist:item=20935540&perks=1840239774,1087426260,3400784728,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=839105230,106909392,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=1840239774,106909392,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=839105230,1087426260,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=1840239774,1087426260,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=839105230,106909392,3400784728,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=1840239774,106909392,3400784728,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=839105230,1087426260,3400784728,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=1840239774,1087426260,3400784728,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=839105230,106909392,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=1840239774,106909392,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=839105230,1087426260,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=1840239774,1087426260,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=839105230,106909392,3400784728,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=1840239774,106909392,3400784728,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=839105230,1087426260,3400784728,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
+dimwishlist:item=20935540&perks=1840239774,1087426260,3400784728,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload
 
 
 
@@ -49176,7 +49176,7 @@ dimwishlist:item=-2105827099#notes:Bad Repuketation 🤢🤢🤢 (Antiope is ide
 dimwishlist:item=-4227181568#notes:Exit Pukegy 🤢🤢🤢 (Beaten by Trackless Waste and Bug-Out Bag (and many lightweights))
 dimwishlist:item=-1865351684#notes:The Hero's Pukeden 🤢🤢🤢 (Beaten by Trackless Waste and Bug-Out Bag (and many lightweights))
 dimwishlist:item=-2909905776#notes:The Hero's Pukeden 🤢🤢🤢 (Beaten by Trackless Waste and Bug-Out Bag (and many lightweights))
- 
+
 // lightweight SMGs
 dimwishlist:item=-174192097#notes:CALUS Mini-Puke 🤢🤢🤢 (Garbage perks, very strong competition)
 
@@ -49190,17 +49190,17 @@ dimwishlist:item=-1960218487#notes:Nameless Pukenight 🤢🤢🤢 (no reason to
 dimwishlist:item=-3040742682#notes:Nameless Pukenight 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
 dimwishlist:item=-20025671#notes:Pukego-45 XK5094 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
 dimwishlist:item=-2034817450#notes:Distant Repuketion 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
- 
+
 //lightweight scout rifle
 dimwishlist:item=-3242168339#notes:Vouchpuke 🤢🤢🤢 (bad perks but it *is* unique in slot)
- 
+
 //lightweight pulse rifle
 dimwishlist:item=-339163900#notes:Nightpuke 🤢🤢🤢 (Chattering Bone is just better, weak archetype)
 dimwishlist:item=-792755504#notes:Nightpuke 🤢🤢🤢 (Chattering Bone is just better, weak archetype)
 
 // high-impact auto rifle
 dimwishlist:item=-1952163498#notes:Plupukefect 🤢🤢🤢 (all-around worse stats and perks than Halfdan or Gahlran's Right Hand)
- 
+
 // precision auto rifle
 dimwishlist:item=-528834068#notes:BrayTech Pukewolf 🤢🤢🤢 (just a bad archetype)
 dimwishlist:item=-3645283765#notes:BrayTech Pukewolf 🤢🤢🤢 (just a bad archetype)
@@ -49256,6 +49256,37 @@ dimwishlist:item=-1496419775 #notes:Puke of Sorrow 🤢🤢🤢 (Weak archetype 
 dimwishlist:item=-66875353#notes:Pukalanche 🤢🤢🤢 (Memorial is pretty garbage even compared to Avalanche, both are outclassed severely by Delirium and Edgewise anyways)
 dimwishlist:item=-1220931350#notes:A Puke Memorial 🤢🤢🤢 (Memorial is pretty garbage even compared to Avalanche, both are outclassed severely by Delirium and Edgewise anyways)
 dimwishlist:item=-3325778512#notes:A Puke Memorial 🤢🤢🤢 (Memorial is pretty garbage even compared to Avalanche, both are outclassed severely by Delirium and Edgewise anyways)
- 
+
 // rapid-fire machine gun
 dimwishlist:item=-3369545945#notes:Tempukal Clause 🤢🤢🤢 (Unless you *really* hate Hammerhead or Bane of Sorrow, this is redundant vs. better guns)
+
+// Craig's additions
+
+// Extraordinary Rendition
+//notes: craigmink (PvE): Added Frenzy picks to this list. Recommended MW: Stability.
+dimwishlist:item=1097616550&perks=1482024992,106909392,3643424744,4104185692
+dimwishlist:item=1097616550&perks=1482024992,106909392,3436462433,4104185692
+dimwishlist:item=1097616550&perks=1482024992,106909392,1168162263,4104185692
+dimwishlist:item=1097616550&perks=1482024992,1087426260,3643424744,4104185692
+dimwishlist:item=1097616550&perks=1482024992,1087426260,3436462433,4104185692
+dimwishlist:item=1097616550&perks=1482024992,1087426260,1168162263,4104185692
+dimwishlist:item=1097616550&perks=4090651448,106909392,3643424744,4104185692
+dimwishlist:item=1097616550&perks=4090651448,106909392,3436462433,4104185692
+dimwishlist:item=1097616550&perks=4090651448,106909392,1168162263,4104185692
+dimwishlist:item=1097616550&perks=4090651448,1087426260,3643424744,4104185692
+dimwishlist:item=1097616550&perks=4090651448,1087426260,3436462433,4104185692
+dimwishlist:item=1097616550&perks=4090651448,1087426260,1168162263,4104185692
+dimwishlist:item=1097616550&perks=1840239774,106909392,3643424744,4104185692
+dimwishlist:item=1097616550&perks=1840239774,106909392,3436462433,4104185692
+dimwishlist:item=1097616550&perks=1840239774,106909392,1168162263,4104185692
+dimwishlist:item=1097616550&perks=1840239774,1087426260,3643424744,4104185692
+dimwishlist:item=1097616550&perks=1840239774,1087426260,3436462433,4104185692
+dimwishlist:item=1097616550&perks=1840239774,1087426260,1168162263,4104185692
+
+// Extraordinary Rendition curated roll
+dimwishlist:item=1097616550&perks=839105230,3142289711,1820235745,2458213969,384158423#notes: Curated Roll
+
+// Bottom Dollar
+//notes: craigmink (PvP): Apparently Thresh is good now?
+dimwishlist:item=1046651176&perks=1482024992,3142289711,247725512,47981717,2697220197
+dimwishlist:item=720351795&perks=1784898267,3311977193,3425386926,3365897133,1639384016
