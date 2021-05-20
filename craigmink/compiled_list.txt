@@ -352,3 +352,6 @@ dimwishlist:item=720351795&perks=3768438372,16392701,3425386926,201365942,758092
 //notes:craigmink (PvP God Roll): This is the Gold Tier PvP pick.|tags:PvP
 dimwishlist:item=720351795&perks=2801223209,3429800428,706527188,201365942,1639384016
 
+// Heating Up perk
+//notes:craigmink (It's Heating Up man!)
+dimwishlist:item=-69420&perks=1570042021
