@@ -26,6 +26,7 @@ Truthteller
 
 Empty Vessel
 ------------
+  Based on the perks for Truthteller, as these 2 are very similar.
 
 ## Slot 1
 - God Roll
@@ -53,6 +54,8 @@ Empty Vessel
 
 Ignition Code (item=304659313)
 -------------
+  Based on the perks for Truthteller, as these 2 are very similar.
+
 ## Slot 1
 - God Roll
   - Linear Comp, Quick Launch, Smart Drift Control
