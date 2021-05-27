@@ -15,6 +15,6 @@ reference: Seventh Seraph office revolver
   - Eye of the Storm, Slideshot
 ## PvE
   - (none)
-  - Extended Mag, High Caliber Rounds
+  - Extended Mag, High-Caliber Rounds
   - Ambitious Assassin, Threat Detector
   - High-Impact Reserves, Multikill Clip, Wellspring, One for All
