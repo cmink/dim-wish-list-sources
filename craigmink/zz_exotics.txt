@@ -1,0 +1,7 @@
+title:Exotics...for fun!
+
+// Anarchy should always have a thumbs up!
+dimwishlist:item=2376481550
+
+// Jötunn should have a thumbs up too!
+dimwishlist:item=417164956

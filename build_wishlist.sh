@@ -24,7 +24,7 @@ echo "title: ${BUILT_WISHLIST_TITLE}" > $BUILT_WISHLIST_FILE
 echo "" >> $BUILT_WISHLIST_FILE
 
 # craigmink's lists
-for sublist in `ls craigmink/*.txt | sort -Vr`;do
+for sublist in `ls craigmink/*.txt | sort -V`;do
     add_sublist "$sublist"
 done
 
