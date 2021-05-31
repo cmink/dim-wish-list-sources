@@ -54,7 +54,7 @@ Empty Vessel
 
 Ignition Code (item=304659313)
 -------------
-  Based on the perks for Truthteller, as these 2 are very similar.
+  Based on the perks for Truthteller
 
 ## Slot 1
 - God Roll
