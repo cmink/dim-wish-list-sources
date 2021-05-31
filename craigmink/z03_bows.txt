@@ -186,7 +186,7 @@ dimwishlist:item=720351795&perks=4067834857,3827198035,706527188,201365942,29935
 dimwishlist:item=720351795&perks=852209214,3827198035,706527188,201365942,2993547493
 
 // Arsenic Bite-4b
-//notes:craigmink (??? God Roll (both disciplines) ???): This is an all-rounder pick for Arsenic. Good in PvE and PvP.|tags:God Roll (both disciplines)
+//notes:craigmink (God Roll): This is an all-rounder pick for Arsenic. Good in PvE and PvP.|tags:God Roll
 dimwishlist:item=720351795&perks=852209214,3311977193,3425386926,201365942,1639384016
 dimwishlist:item=720351795&perks=852209214,3827198035,3425386926,201365942,1639384016
 dimwishlist:item=720351795&perks=852209214,3311977193,706527188,201365942,1639384016
