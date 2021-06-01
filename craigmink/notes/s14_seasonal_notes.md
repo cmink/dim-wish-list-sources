@@ -3,9 +3,10 @@ S14 Weapons
 
 ## Auto Rifles
 
-### Chroma Rush (MW: PvP-Stability, PvE-Reload)
+### Chroma Rush
   - dimwishlist:item=1119734784
   - based on picks from Arctic Haze
+  - MW: PvP-Stability, PvE-Reload
 
 #### God Roll
   - Arrowhead Brake, Polygonal Rifling, Smallbore
@@ -100,3 +101,30 @@ S14 Weapons
   - Appended Mag, Extended Mag
   - Subsistence, Tunnel Vision
   - Multikill Clip, Adrenaline Junkie
+
+---
+
+## Machine Guns
+
+### Shattered Cipher
+  - dimwishlist:item=2434225986
+  - Based on Rapid-Fire Frame Machine Guns (Thermal Erosion)
+  - Recommended MW: Stability
+
+#### God Roll
+  - Arrowhead Brake, Polygonal Rifling, Smallbore
+  - Tactical Mag, Flared Magwell
+  - Heating Up, Auto-Loading Holster
+  - Zen Moment, Rampage
+
+#### PvP
+  - Hammer-Forged Rifling
+  - Accurized Rounds, Steady Rounds
+  - (none)
+  - Snapshot Sights
+
+#### PvE
+  - Corkscrew Rifling, Fluted Barrel
+  - Appended Mag, Extended Mag
+  - Field Prep, Slideways, Under Pressure
+  - Surrounded, Adrenaline Junkie
