@@ -76,6 +76,30 @@ S14 Weapons
   - Auto-Loading Holster, Threat Detector
   - Dragonfly, Adrenaline Junkie, Surrounded
 
+
+### The Deicide
+  - dimwishlist:item=217140611
+  - Based on picks from Rapid-Frame fire shotguns
+  - MW: Stability
+
+#### God Roll
+  - Rifled Barrel
+  - Tactical Mag
+  - Slideshot
+  - Vorpal Weapon, Demolitionist
+
+#### PvP
+  - Full Choke
+  - Accurized Rounds
+  - (none)
+  - Elemental Capacitor
+
+#### PvE
+  - Barrel Shroud, Corkscrew Rifling
+  - Appended Mag, Extended Mag
+  - Surplus, Lead from Gold, Dual Loader
+  - Wellspring, One-Two Punch
+
 ---
 
 ## Sidearms

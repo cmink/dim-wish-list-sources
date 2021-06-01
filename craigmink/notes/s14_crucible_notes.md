@@ -1,19 +1,25 @@
-reference: Seventh Seraph office revolver
+S14 Crucible Weapons
+====================
 
-# Survivor's Epitaph
+## Handguns
+
+### Survivor's Epitaph
   - dimwishlist:item=310708513
+  - Based on Seventh Seraph office revolver
 
-## God Roll
+#### God Roll
   - Corkscrew Rifling, Fluted Barrel, Smallbore
   - Appended Mag, Ricochet Rounds
   - Heating Up, Feeding Frenzy, Rapid Hit, Killing Wind, Subsistence
   - Frenzy, Thresh, Kill Clip
-## PvP
+
+#### PvP
   - Chambered Compensator, Polygonal Rifling
   - Armor-Piercing Rounds, Flared Magwell
   - Firmly Planted, Tunnel Vision, Quickdraw
   - Eye of the Storm, Slideshot
-## PvE
+
+#### PvE
   - (none)
   - Extended Mag, High-Caliber Rounds
   - Ambitious Assassin, Threat Detector
