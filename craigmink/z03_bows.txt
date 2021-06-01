@@ -1,4 +1,21 @@
 // Rolls for unloved bows
+
+// Arsenic Bite-4b
+//notes:craigmink (God Roll): This is an all-rounder pick for Arsenic. Good in PvE and PvP.|tags:God Roll
+dimwishlist:item=720351795&perks=852209214,3311977193,3425386926,201365942,1639384016
+dimwishlist:item=720351795&perks=852209214,3827198035,3425386926,201365942,1639384016
+dimwishlist:item=720351795&perks=852209214,3311977193,706527188,201365942,1639384016
+dimwishlist:item=720351795&perks=852209214,3827198035,706527188,201365942,1639384016
+
+// Arsenic Bite-4b
+//notes:craigmink (PvE God Roll): This is the Gold Tier PvE pick.|tags:PvE
+dimwishlist:item=720351795&perks=3768438372,16392701,3425386926,201365942,758092021
+
+// Arsenic Bite-4b
+//notes:craigmink (PvP God Roll): This is the Gold Tier PvP pick.|tags:PvP
+dimwishlist:item=720351795&perks=2801223209,3429800428,706527188,201365942,1639384016
+
+
 // Arsenic Bite-4b - PvE rolls
 //notes:craigmink (PvE): These are the PvE picks for this bow.|tags:PvE
 dimwishlist:item=720351795&perks=3768438372,16392701,3425386926,201365942,758092021
@@ -19,6 +36,7 @@ dimwishlist:item=720351795&perks=852209214,3311977193,2848615171,201365942,75809
 dimwishlist:item=720351795&perks=3768438372,3827198035,2848615171,201365942,758092021
 dimwishlist:item=720351795&perks=1784898267,3827198035,2848615171,201365942,758092021
 dimwishlist:item=720351795&perks=852209214,3827198035,2848615171,201365942,758092021
+
 
 // Arsenic Bite-4b - PvP Rolls
 //notes:craigmink (PvP): These are the PvP picks for this bow.|tags:PvP
@@ -184,19 +202,4 @@ dimwishlist:item=720351795&perks=852209214,3311977193,706527188,201365942,299354
 dimwishlist:item=720351795&perks=2801223209,3827198035,706527188,201365942,2993547493
 dimwishlist:item=720351795&perks=4067834857,3827198035,706527188,201365942,2993547493
 dimwishlist:item=720351795&perks=852209214,3827198035,706527188,201365942,2993547493
-
-// Arsenic Bite-4b
-//notes:craigmink (God Roll): This is an all-rounder pick for Arsenic. Good in PvE and PvP.|tags:God Roll
-dimwishlist:item=720351795&perks=852209214,3311977193,3425386926,201365942,1639384016
-dimwishlist:item=720351795&perks=852209214,3827198035,3425386926,201365942,1639384016
-dimwishlist:item=720351795&perks=852209214,3311977193,706527188,201365942,1639384016
-dimwishlist:item=720351795&perks=852209214,3827198035,706527188,201365942,1639384016
-
-// Arsenic Bite-4b
-//notes:craigmink (PvE God Roll): This is the Gold Tier PvE pick.|tags:PvE
-dimwishlist:item=720351795&perks=3768438372,16392701,3425386926,201365942,758092021
-
-// Arsenic Bite-4b
-//notes:craigmink (PvP God Roll): This is the Gold Tier PvP pick.|tags:PvP
-dimwishlist:item=720351795&perks=2801223209,3429800428,706527188,201365942,1639384016
 
