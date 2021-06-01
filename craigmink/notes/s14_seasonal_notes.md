@@ -57,20 +57,46 @@ S14 Weapons
   - dimwishlist:item=599895591
   - Based on other precision frame shotguns
 
-### God Roll
+#### God Roll
   - Fluted Barrel, Smallbore
   - Assault Mag
   - Quickdraw
   - Frenzy
 
-## PvP
+#### PvP
   - Corkscrew Rifling
   - Accurized Rounds, Light Mag
   - Moving Target
   - Killing Wind, Opening Shot
 
-# PvE
+#### PvE
   - Arrowhead Brake, Hammer-Forged Rifling
   - Appended Mag, Tactical Mag
   - Auto-Loading Holster, Threat Detector
   - Dragonfly, Adrenaline Junkie, Surrounded
+
+---
+
+## Sidearms
+
+### Farewell
+  - dimwishlist:item=541188001
+  - Based on Lightweight Frame sidearms (Seventh Seraph SI-2)
+
+#### God Roll
+  - Fluted Barrel, Smallbore
+  - Tactical Mag
+  - Full Auto Trigger System, Heating Up
+  - Vorpal Weapon, Frenzy, Thresh
+
+#### PvP
+  - Chambered Compensator, Extended Barrel, Polygonal Rifling
+  - Accurized Rounds, Steady Rounds
+  - Moving Target
+  - (none)
+
+#### PvE
+  - Arrowhead Brake, Corkscrew Rifling
+  - Appended Mag, Extended Mag
+  - Subsistence, Tunnel Vision
+  - Multikill Clip, Adrenaline Junkie
