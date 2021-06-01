@@ -92,7 +92,7 @@ S14 Weapons
 #### PvP
   - Chambered Compensator, Extended Barrel, Polygonal Rifling
   - Accurized Rounds, Steady Rounds
-  - Moving Target
+  - Moving Target, Rangefinder
   - (none)
 
 #### PvE
