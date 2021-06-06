@@ -126,6 +126,29 @@ S14 Weapons
   - Subsistence, Tunnel Vision
   - Multikill Clip, Adrenaline Junkie
 
+
+### The Vision
+  - dimwishlist:item=2414141462
+  - From other Omolon Adaptive Frame sidearms
+
+#### God Roll
+  - Control SAS, Shortspec SAS, Target SAS
+  - Tactical Mag
+  - Full Auto Trigger System
+  - Disruption Break
+
+#### PvP
+  - (none)
+  - Steady Rounds, Accurized Rounds
+  - Surplus
+  - (none)
+
+#### PvE
+  - (none)
+  - Extended Mag, Appended Mag
+  - Killing Wind, Ambitious Assassin
+  - Kill Clip, Swashbuckler, Elemental Capacitor, One for All
+
 ---
 
 ## Machine Guns
