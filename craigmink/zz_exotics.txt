@@ -1,7 +1,21 @@
 title:Exotics...for fun!
 
-// Anarchy should always have a thumbs up!
+// Anarchy
+//notes: Anarchy should always have a thumbs up!
 dimwishlist:item=2376481550
 
-// Jötunn should have a thumbs up too!
+// Jötunn
+//notes: Jötunn, my new favorite in Gambit
 dimwishlist:item=417164956
+
+// Witherhoard
+//notes: Boil in burbling, blighty goodness
+dimwishlist:item=2357297366
+
+// Le Monarque
+//notes: Best exotic bow
+dimwishlist:item=3588934839
+
+// Telesto
+//notes: Telesto is the best-o, better than all the rest-o!
+dimwishlist:item=2208405142
