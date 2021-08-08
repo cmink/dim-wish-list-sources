@@ -175,3 +175,30 @@ S14 Weapons
   - Appended Mag, Extended Mag
   - Field Prep, Slideways, Under Pressure
   - Surrounded, Adrenaline Junkie
+
+---
+
+## Submacbine Guns
+
+### Borrowed Time
+  - dimwishlist:item=875848769
+  - Based on Aggressive Frame Submachine Guns (Ikelos SMG)
+  - Recommended MW: Stability, Reload Speed
+
+#### God Roll
+  - Polygonal Rifling, Smallbore
+  - High-Caliber Rounds, Ricochet Rounds
+  - Heating Up, Killing Wind, Overflow
+  - Demolitionist, Dragonfly, Thresh
+
+#### PvP
+  - Chambered Compensator, Hammer-Forged Rifling
+  - Accurized Rounds, Steady Rounds
+  - Dynamic Sway Reduction, Rangefinder
+  - Tap the Trigger, Snapshot Sights
+
+#### PvE
+  - Fluted Barrel
+  - Appended Mag, Extended Mag, Flared Magwell
+  - Threat Detector, Grave Robber, Tunnel Vision, Surplus, Feeding Frenzy
+  - Surrounded, Adrenaline Junkie, Swashbuckler, One for All, Rampage, Frenzy

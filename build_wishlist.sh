@@ -3,7 +3,7 @@
 # Shamelessly copying Veritas1000's wishlist builder script
 # https://github.com/Veritas1000/dim-wish-list-sources
 
-BUILT_WISHLIST_FILE="test_choosy_craigmink.txt"
+BUILT_WISHLIST_FILE="choosy_craigmink.txt"
 BUILT_WISHLIST_TITLE="A compiled wishlist generated from sublists"
 
 MKB=false
