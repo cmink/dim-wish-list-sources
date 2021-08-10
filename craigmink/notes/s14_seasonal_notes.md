@@ -8,6 +8,18 @@ S14 Weapons
   - based on picks from Arctic Haze
   - MW: PvP-Stability, PvE-Reload
 
+#### Godliest Roll (PvP)
+  - Arrowhead Brake
+  - Accurized Rounds
+  - Dynamic Sway Reduction
+  - Kill Clip
+
+#### Godliest Roll (PvE)
+  - Arrowhead Brake
+  - Tactical Mag
+  - Feeding Frenzy
+  - Rampage
+
 #### God Roll
   - Arrowhead Brake, Polygonal Rifling, Smallbore
   - Tactical Mag, Flared Magwell
@@ -175,6 +187,29 @@ S14 Weapons
   - Appended Mag, Extended Mag
   - Field Prep, Slideways, Under Pressure
   - Surrounded, Adrenaline Junkie
+
+### Archon's Thunder
+  - dimwishlist:item=1967303408
+  - Based on High-Impact Frame Machine Guns (Seventh Sereph Saw)
+  - Recommended MW: Stability, Reload Speed
+
+#### God Roll
+  - Chambered Compensator, Polygonal Rifling
+  - Tactical Mag
+  - Surplus
+  - Rampage, Elemental Capacitor, Thresh
+
+#### PvP
+  - Smallbore
+  - Steady Rounds, Accurized Rounds
+  - Rangefinder, Quickdraw, Killing Wind
+  - Snapshot Sights, Iron Grip
+
+#### PvE
+  - Fluted Barrel
+  - Appended Mag, Extended Mag
+  - Field Prep
+  - (none)
 
 ---
 
