@@ -1,7 +1,45 @@
 Season 15 Weapons
 =================
 
+## Perk cheat sheet
+  - Ensemble: 2621346526
+  - Shoot to Loot: 3700496672
+  - Headstone: 124408337
+  - Adagio: 3673922083
+  - Harmony: 438098033
+  - Encore: 1195158366
+
+
 ### Chrysura Melo
+  - dimwishlist:item=1337707096
+  - craigmink
+  -
+
+#### God Roll (PvE)
+  - Fluted Barrel
+  - Tactical Mag
+  - Fourth Time's the Charm
+  - Frenzy
+
+#### God Roll (PvP)
+  - Arrowhead Brake
+  - Accurized Rounds
+  - Encore
+  - Harmony
+
+#### PvE
+  - Arrowhead Brake, Smallbore
+  - Appended Mag
+  - Heating Up, Outlaw, Ensemble
+  - Dragonfly, Demolitionist, Harmony
+
+#### PvP
+  - Hammer-Forged Rifling, Smallbore
+  - Tactical Mag
+  - Dynamic Sway Reduction, Heating Up
+  - Multikill Clip
+
+---
 
 ### Fractethyst
   - dimwishlist:item=1622998472
