@@ -11,6 +11,45 @@ Season 15 Weapons
 
 ---
 
+### Canis Major
+
+---
+
+### Iota Draconis
+
+---
+
+### Wolftone Draw
+  - dimwishlist:item=3472875143
+  - Recommended MW: Draw Time
+  - notes:
+
+#### God Roll (PvE)
+  - Elastic String
+  - Fiberglass Arrow Shaft
+  - Archer's Tempo
+  - Frenzy
+
+#### God Roll (PvP)
+  - Elastic String
+  - Fiberglass Arrow Shaft
+  - Archer's Tempo
+  - Harmony 438098033
+
+#### PvE
+  - Agile Bowstring, Flexible String
+  - Compact Arrow Shaft, Straight Fletching
+  - Ensemble 2621346526, Shoot to Loot 3700496672
+  - Cornered, Demolitionist, Dragonfly
+
+#### PvP
+  - Flexible String, Polymer String
+  - Straight Fletching
+  - Impulse Amplifier
+  - Cornered, Adagio 3673922083
+
+---
+
 ### Chrysura Melo
   - dimwishlist:item=1337707096
   - craigmink
@@ -104,8 +143,3 @@ Season 15 Weapons
 
 ---
 
-### Canis Major
-
-### Iota Draconis
-
-### Wolftone Draw
