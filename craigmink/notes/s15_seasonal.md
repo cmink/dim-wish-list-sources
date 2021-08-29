@@ -9,6 +9,7 @@ Season 15 Weapons
   - Harmony: 438098033
   - Encore: 1195158366
 
+---
 
 ### Chrysura Melo
   - dimwishlist:item=1337707096
@@ -42,21 +43,40 @@ Season 15 Weapons
 ---
 
 ### Fractethyst
-  - dimwishlist:item=1622998472
-  - craigmink
-  - I like Harmony for both PvE and PvP. It's like a weaker Master at Arms.
+  - dimwishlist:item=3184681056
+  - Recommended PvP MW: Range, PvE MW: Reload Speed
+
+#### God Roll (PvE)
+  - Barrel Shroud
+  - Assault Mag, Tactical Mag
+  - Ensemble
+  - Trench Barrel
+
+#### PvE
+  - Corkscrew Rifling
+  - Appended Mag
+  - Slideshot, Lead from Gold
+  - Harmony, Adagio
 
 #### God Roll (PvP)
-  - Hammer-Forged Rifling
+  - Full Choke
   - Accurized Rounds
-  - Encore
+  - Quickdraw
   - Opening Shot
 
 #### PvP
-  - Corkscrew Rifling, Smallbore
-  - Tactical Mag
-  - Tunnel Vision, Killing Wind, Outlaw
-  - Harmony, Explosive Payload
+  - Rifled Barrel, Smallbore, Corkscrew Rifling
+  - Assault Mag
+  - Slideshot, Full Auto Trigger System
+  - Harmony, Adagio
+
+
+---
+
+### Vulpecula
+  - dimwishlist:item=1622998472
+  - craigmink
+  - I like Harmony for both PvE and PvP. It's like a weaker Master at Arms.
 
 #### God Roll (PvE)
   - Fluted Barrel
@@ -70,11 +90,19 @@ Season 15 Weapons
   - Ensemble, Shoot to Loot
   - Headstone, Adagio, Harmony
 
-  - 2621346526,3700496672
-  - 124408337,3673922083,438098033
+#### God Roll (PvP)
+  - Hammer-Forged Rifling
+  - Accurized Rounds
+  - Encore
+  - Opening Shot
 
+#### PvP
+  - Corkscrew Rifling, Smallbore
+  - Tactical Mag
+  - Tunnel Vision, Killing Wind, Outlaw
+  - Harmony, Explosive Payload
 
-### Vulpecula
+---
 
 ### Canis Major
 
