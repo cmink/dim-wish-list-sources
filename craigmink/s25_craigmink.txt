@@ -1,2 +1,3 @@
 // testing Refusal of the Call for wishlist inclusion
+//notes:craigmink (testing): To GLAIVE!!!!
 dimwishlist:item=2671849376&perks=580685494,2420895100,951095735,31345821,878237828
