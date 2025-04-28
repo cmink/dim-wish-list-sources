@@ -29,6 +29,7 @@ for sublist in `ls craigmink/*.txt | sort -V`;do
 done
 
 add_sublist "choosy_voltron.txt"
+# add_sublist "voltron.txt"
 
 
 #Panda's lists
