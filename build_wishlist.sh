@@ -4,7 +4,7 @@
 # https://github.com/Veritas1000/dim-wish-list-sources
 
 BUILT_WISHLIST_FILE="choosy_craigmink.txt"
-BUILT_WISHLIST_TITLE="A compiled wishlist generated from sublists"
+BUILT_WISHLIST_TITLE="Craig's compiled wishlist generated from sublists"
 
 MKB=false
 CONTROLLER=true
@@ -28,7 +28,7 @@ for sublist in `ls craigmink/*.txt | sort -V`;do
     add_sublist "$sublist"
 done
 
-add_sublist "choosy_voltron.txt"
+# add_sublist "choosy_voltron.txt"
 # add_sublist "voltron.txt"
 
 
