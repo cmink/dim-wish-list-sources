@@ -19,3 +19,15 @@ dimwishlist:item=3588934839
 // Telesto
 //notes: Telesto is the best-o, better than all the rest-o!
 dimwishlist:item=2208405142
+
+// Trinity Ghoul
+//notes: It's a bow, Darryl.
+dimwishlist:item=814876685&perks=
+
+// Mida Multi-Tool
+//notes: It's Mida, it's Marathon, it should be on the list.
+dimwishlist:item=1331482397&perks=
+
+// Arbalest
+//notes: First slot Linear Fusion Rifle...sue me!
+dimwishlist:item=2130065553&perks=
