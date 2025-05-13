@@ -28,7 +28,7 @@ for sublist in `ls craigmink/*.txt | sort -V`;do
     add_sublist "$sublist"
 done
 
-# add_sublist "choosy_voltron.txt"
+add_sublist "choosy_voltron.txt"
 # add_sublist "voltron.txt"
 
 
