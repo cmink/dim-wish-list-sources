@@ -31,3 +31,6 @@ dimwishlist:item=1331482397&perks=
 // Arbalest
 //notes: First slot Linear Fusion Rifle...sue me!
 dimwishlist:item=2130065553&perks=
+
+// Sleeper Simulant
+//notes: Warmind says BOOM!
