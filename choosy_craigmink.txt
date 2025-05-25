@@ -7787,6 +7787,28 @@ dimwishlist:item=720351795&perks=4067834857,3827198035,706527188,201365942,29935
 dimwishlist:item=720351795&perks=852209214,3827198035,706527188,201365942,2993547493
 
 
+// source file: craigmink/zz_curated_rolls.txt
+title:Curated rolls to keep
+
+// Mountain Top
+//notes: Curated Mountain Top
+dimwishlist:item=3993415705&perks=1478423395,3301904089
+
+// Recluse
+//notes: Curated Recluse
+dimwishlist:item=3354242550&perks=
+
+// Revoker
+//notes: Curated Revoker
+dimwishlist:item=654608616&perks=
+
+// Komodo-4FR
+//notes: Season of Dawn reward. I worked hard for this.
+dimwishlist:item=2697058914&perks=2866798147,699525795
+
+// Hammerhead
+//notes: Curated Hammerhead. Used to be the big machine gun
+dimwishlist:item=603242241&perks=3250034553,1968497646,2779035018,3425386926
 // source file: craigmink/zz_exotics.txt
 title:Exotics...for fun!
 
@@ -7795,11 +7817,11 @@ title:Exotics...for fun!
 dimwishlist:item=2376481550
 
 // Jötunn
-//notes: Jötunn, my new favorite in Gambit
+//notes: Jötunn, my new favorite in Gambit.
 dimwishlist:item=417164956
 
 // Witherhoard
-//notes: Boil in burbling, blighty goodness
+//notes: Boil in burbling, blighty goodness.
 dimwishlist:item=2357297366
 
 // Le Monarque
@@ -7823,7 +7845,24 @@ dimwishlist:item=1331482397&perks=
 dimwishlist:item=2130065553&perks=
 
 // Sleeper Simulant
-//notes: Warmind says BOOM!
+//notes: Big bouncy laser.
+dimwishlist:item=4036115577&perks=
+
+// Vigilance Wing
+//notes: More fast, more health
+dimwishlist:item=3628991659&perks=
+
+// Crimson
+//notes: Hated in PvP
+dimwishlist:item=3437746471&perks=
+
+// Thorn
+//notes: Pickup them green blobs!
+dimwishlist:item=3973202132&perks=
+
+// Polaris Lance
+//notes: I loves me some Scout Rifles, and Polaris is like a precision trainer.
+dimwishlist:item=3413074534&perks=
 // source file: craigmink/zz_perklist.txt
 title: Specific individual perks to look for
 
