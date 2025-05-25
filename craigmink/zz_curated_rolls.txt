@@ -1,0 +1,21 @@
+title:Curated rolls to keep
+
+// Mountain Top
+//notes: Curated Mountain Top
+dimwishlist:item=3993415705&perks=1478423395,3301904089
+
+// Recluse
+//notes: Curated Recluse
+dimwishlist:item=3354242550&perks=
+
+// Revoker
+//notes: Curated Revoker
+dimwishlist:item=654608616&perks=
+
+// Komodo-4FR
+//notes: Season of Dawn reward. I worked hard for this.
+dimwishlist:item=2697058914&perks=2866798147,699525795
+
+// Hammerhead
+//notes: Curated Hammerhead. Used to be the big machine gun
+dimwishlist:item=603242241&perks=3250034553,1968497646,2779035018,3425386926

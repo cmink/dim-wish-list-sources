@@ -5,11 +5,11 @@ title:Exotics...for fun!
 dimwishlist:item=2376481550
 
 // Jötunn
-//notes: Jötunn, my new favorite in Gambit
+//notes: Jötunn, my new favorite in Gambit.
 dimwishlist:item=417164956
 
 // Witherhoard
-//notes: Boil in burbling, blighty goodness
+//notes: Boil in burbling, blighty goodness.
 dimwishlist:item=2357297366
 
 // Le Monarque
@@ -33,4 +33,21 @@ dimwishlist:item=1331482397&perks=
 dimwishlist:item=2130065553&perks=
 
 // Sleeper Simulant
-//notes: Warmind says BOOM!
+//notes: Big bouncy laser.
+dimwishlist:item=4036115577&perks=
+
+// Vigilance Wing
+//notes: More fast, more health
+dimwishlist:item=3628991659&perks=
+
+// Crimson
+//notes: Hated in PvP
+dimwishlist:item=3437746471&perks=
+
+// Thorn
+//notes: Pickup them green blobs!
+dimwishlist:item=3973202132&perks=
+
+// Polaris Lance
+//notes: I loves me some Scout Rifles, and Polaris is like a precision trainer.
+dimwishlist:item=3413074534&perks=
