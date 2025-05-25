@@ -7790,8 +7790,8 @@ dimwishlist:item=720351795&perks=852209214,3827198035,706527188,201365942,299354
 // source file: craigmink/zz_curated_rolls.txt
 title:Curated rolls to keep
 
-// Mountain Top
-//notes: Curated Mountain Top
+// The Mountaintop
+//notes: Curated Mountaintop
 dimwishlist:item=3993415705&perks=1478423395,3301904089
 
 // Recluse
@@ -7809,6 +7809,16 @@ dimwishlist:item=2697058914&perks=2866798147,699525795
 // Hammerhead
 //notes: Curated Hammerhead. Used to be the big machine gun
 dimwishlist:item=603242241&perks=3250034553,1968497646,2779035018,3425386926
+
+// Threaded Needle
+//notes: Curated Roll
+dimwishlist:item=3075224551&perks=1840239774,1687452232,2284787283,2848615171
+
+// 21% Deleium
+//notes: Pinnacle currated. I don't know why this isn't good anymore.
+dimwishlist:item=1600633250&perks=
+
+
 // source file: craigmink/zz_exotics.txt
 title:Exotics...for fun!
 
@@ -7863,6 +7873,22 @@ dimwishlist:item=3973202132&perks=
 // Polaris Lance
 //notes: I loves me some Scout Rifles, and Polaris is like a precision trainer.
 dimwishlist:item=3413074534&perks=
+
+// Fighting Lion
+//notes: A primary unlimited ammo grenade launcher. Come on people who hate this!
+dimwishlist:item=3549153978&perks=
+
+// Lodestar
+//notes: A primary ammo Trace Rifle. Unlimited AMMO!
+dimwishlist:item=3725585710&perks=
+
+// Symmetry
+//notes: Fast Firing Scout Rifle. Scouts should be the best weapon in the game.
+dimwishlist:item=4017959782&perks=
+
+// Graviton Lance
+//notes: Lovely black holes and Cosmology void chomping enemies. Yes, this is a Pulse Rifle.
+dimwishlist:item=3628991658&perks=
 // source file: craigmink/zz_perklist.txt
 title: Specific individual perks to look for
 

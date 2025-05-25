@@ -51,3 +51,19 @@ dimwishlist:item=3973202132&perks=
 // Polaris Lance
 //notes: I loves me some Scout Rifles, and Polaris is like a precision trainer.
 dimwishlist:item=3413074534&perks=
+
+// Fighting Lion
+//notes: A primary unlimited ammo grenade launcher. Come on people who hate this!
+dimwishlist:item=3549153978&perks=
+
+// Lodestar
+//notes: A primary ammo Trace Rifle. Unlimited AMMO!
+dimwishlist:item=3725585710&perks=
+
+// Symmetry
+//notes: Fast Firing Scout Rifle. Scouts should be the best weapon in the game.
+dimwishlist:item=4017959782&perks=
+
+// Graviton Lance
+//notes: Lovely black holes and Cosmology void chomping enemies. Yes, this is a Pulse Rifle.
+dimwishlist:item=3628991658&perks=
