@@ -67,3 +67,7 @@ dimwishlist:item=4017959782&perks=
 // Graviton Lance
 //notes: Lovely black holes and Cosmology void chomping enemies. Yes, this is a Pulse Rifle.
 dimwishlist:item=3628991658&perks=
+
+// Third Iteration
+//notes: A absolute destroyer of a Scout Rifle. I hope it doesn't get nerfed again.
+dimwishlist:item=2973900274&perks=
