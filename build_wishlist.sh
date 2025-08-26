@@ -31,17 +31,16 @@ done
 # add_sublist "choosy_voltron.txt"
 # add_sublist "voltron.txt"
 
-
-#Panda's lists
-# for sublist in PandaPaxxy/*.txt;do
-#     if [[ $sublist == *"controller"* && "$CONTROLLER" = false ]] \
-#         || [[ $sublist == *"mkb"* && "$MKB" = false ]]
-#     then
-#         echo "-- SKIPPING $sublist"
-#     else
-#         add_sublist $sublist
-#     fi
-# done
+# Panda's lists
+for sublist in PandaPaxxy/*.txt;do
+    if [[ $sublist == *"controller"* && "$CONTROLLER" = false ]] \
+        || [[ $sublist == *"mkb"* && "$MKB" = false ]]
+    then
+        echo "-- SKIPPING $sublist"
+    else
+        add_sublist $sublist
+    fi
+done
 
 # Mercules904's lists
 # for sublist in Mercules904/*.txt;do
