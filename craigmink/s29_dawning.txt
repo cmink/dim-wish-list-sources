@@ -13,6 +13,20 @@ dimwishlist:item=3685829362&perks=511499160,717070634
 dimwishlist:item=3685829362&perks=1115162408,3218042543
 dimwishlist:item=3685829362&perks=511499160,2633604463
 
+// Fimbulwinter Stitch (Holofoil)
+//notes:craigmink (PvE perks): Good perk combos.|tags:PvE
+dimwishlist:item=2645567209&perks=1511100135,3966416502
+dimwishlist:item=2645567209&perks=65604327,717070634
+dimwishlist:item=2645567209&perks=1511100135,3218042543
+dimwishlist:item=2645567209&perks=65604327,2633604463
+dimwishlist:item=2645567209&perks=1511100135,2173046394
+dimwishlist:item=2645567209&perks=65604327,1720528630
+dimwishlist:item=2645567209&perks=1115162408,2173046394
+dimwishlist:item=2645567209&perks=511499160,1720528630
+dimwishlist:item=2645567209&perks=1115162408,3966416502
+dimwishlist:item=2645567209&perks=511499160,717070634
+dimwishlist:item=2645567209&perks=1115162408,3218042543
+dimwishlist:item=2645567209&perks=511499160,2633604463
 
 // Permafrost
 //notes:craigmink (PvE perks): Good perk combos.|tags:PvE
@@ -24,6 +38,17 @@ dimwishlist:item=2922964484&perks=3523296417,2922950962
 dimwishlist:item=2922964484&perks=1906147653,2078520142
 dimwishlist:item=2922964484&perks=3523296417,113508675
 dimwishlist:item=2922964484&perks=1906147653,177189259
+
+// Permafrost (Holofoil)
+//notes:craigmink (PvE perks): Good perk combos.|tags:PvE
+dimwishlist:item=2316331767&perks=1955165503,2922950962
+dimwishlist:item=2316331767&perks=2617553311,2078520142
+dimwishlist:item=2316331767&perks=1955165503,113508675
+dimwishlist:item=2316331767&perks=2617553311,177189259
+dimwishlist:item=2316331767&perks=3523296417,2922950962
+dimwishlist:item=2316331767&perks=1906147653,2078520142
+dimwishlist:item=2316331767&perks=3523296417,113508675
+dimwishlist:item=2316331767&perks=1906147653,177189259
 
 // Mistral Lift
 //notes:craigmink (PvE perks): Good perk combos.|tags:PvE
@@ -46,7 +71,7 @@ dimwishlist:item=766122634&perks=1183436451,3744057135
 dimwishlist:item=766122634&perks=3824105627,555281244
 dimwishlist:item=766122634&perks=1183436451,332733060
 
-// Mistral Lift (holofoil)
+// Mistral Lift (Holofoil)
 //notes:craigmink (PvE perks): Good perk combos.|tags:PvE
 dimwishlist:item=270610849&perks=3987942396,3078487919
 dimwishlist:item=270610849&perks=2817499044,3744057135
