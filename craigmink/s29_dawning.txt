@@ -91,3 +91,27 @@ dimwishlist:item=270610849&perks=3824105627,3078487919
 dimwishlist:item=270610849&perks=1183436451,3744057135
 dimwishlist:item=270610849&perks=3824105627,555281244
 dimwishlist:item=270610849&perks=1183436451,332733060
+
+// Gizmo Weft
+//notes:craigmink (PvE perks from blueberries.gg): Envious Arsenal, Elemental Honing|tags:PvE
+dimwishlist:item=4069880346&perks=3987942396,1089671869
+dimwishlist:item=4069880346&perks=3987942396,3764420437
+dimwishlist:item=4069880346&perks=3987942396,3078487919
+dimwishlist:item=4069880346&perks=2822142346,1089671869
+dimwishlist:item=4069880346&perks=2822142346,3764420437
+dimwishlist:item=4069880346&perks=2822142346,3078487919
+dimwishlist:item=4069880346&perks=1421772400,1089671869
+dimwishlist:item=4069880346&perks=1421772400,3764420437
+dimwishlist:item=4069880346&perks=1421772400,3078487919
+
+// Gizmo Weft (Holofoil)
+//notes:craigmink (PvE perks from blueberries.gg): Envious Arsenal, Elemental Honing|tags:PvE
+dimwishlist:item=1572604081&perks=3987942396,1089671869
+dimwishlist:item=1572604081&perks=3987942396,3764420437
+dimwishlist:item=1572604081&perks=3987942396,3078487919
+dimwishlist:item=1572604081&perks=2822142346,1089671869
+dimwishlist:item=1572604081&perks=2822142346,3764420437
+dimwishlist:item=1572604081&perks=2822142346,3078487919
+dimwishlist:item=1572604081&perks=1421772400,1089671869
+dimwishlist:item=1572604081&perks=1421772400,3764420437
+dimwishlist:item=1572604081&perks=1421772400,3078487919
