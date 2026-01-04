@@ -71,3 +71,7 @@ dimwishlist:item=3628991658&perks=
 // Third Iteration
 //notes: A absolute destroyer of a Scout Rifle. I hope it doesn't get nerfed again.
 dimwishlist:item=2973900274&perks=
+
+// Jade Rabbit
+//notes: Good Scout with nice impact.
+dimwishlist:item=3844694310&perks=
