@@ -1,6 +1,7 @@
 // Duty Bound
-//notes:craigmink (PvE perks):Fourth Time's the Charm/Bewildering Burst and Triple Tap/Onslaught |tags:PvE
+//notes:craigmink (PvE perks):Fourth Time's the Charm-Bewildering Burst and Triple Tap-Onslaught |tags:PvE
 dimwishlist:item=260532765&perks=1354429876,3400784728
 dimwishlist:item=260532765&perks=2289534249,95528736
 dimwishlist:item=260532765&perks=2289534249,3400784728
 dimwishlist:item=260532765&perks=1354429876,95528736
+
