@@ -28,6 +28,10 @@ dimwishlist:item=2645567209&perks=511499160,717070634
 dimwishlist:item=2645567209&perks=1115162408,3218042543
 dimwishlist:item=2645567209&perks=511499160,2633604463
 
+// Permafrost (test all perks)
+//notes:craigmink (PvE perks): Good perk combos.|tags:PvE
+dimwishlist:item=2922964484&perks=1955165503,2922950962,2617553311,2078520142,3523296417,113508675,1906147653,177189259
+
 // Permafrost
 //notes:craigmink (PvE perks): Good perk combos.|tags:PvE
 dimwishlist:item=2922964484&perks=1955165503,2922950962
