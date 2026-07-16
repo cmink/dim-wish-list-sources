@@ -1,5 +1,42 @@
 title:s29_moment_weapons
-description:All updated versions of weapons from Moment of Triumph 
+description:All updated versions of weapons from Moment of Triumph
+
+// Gunnora's Axe - Gunnora's Axe (pve,controller)
+//notes: Masterwork: Stability, B-tier PvE (blueberries.gg) tags:pve,controller
+dimwishlist:item=218787951&perks=1482024992,1087426260,4071163871,555281244
+dimwishlist:item=218787951&perks=1482024992,1087426260,4071163871,3751912585
+dimwishlist:item=218787951&perks=1482024992,1087426260,4071163871,4293542123
+dimwishlist:item=218787951&perks=1482024992,1087426260,3017780555,555281244
+dimwishlist:item=218787951&perks=1482024992,1087426260,3017780555,3751912585
+dimwishlist:item=218787951&perks=1482024992,1087426260,3017780555,4293542123
+
+
+// Gunnora's Axe - Gunnora's Axe (controller,pvp)
+//notes: Masterwork: Handling, B-tier PvP (blueberries.gg) tags:controller,pvp
+dimwishlist:item=218787951&perks=839105230,1885400500,2579169598,47981717
+dimwishlist:item=218787951&perks=839105230,1885400500,2579169598,1194056669
+dimwishlist:item=218787951&perks=839105230,1885400500,2579169598,591790007
+dimwishlist:item=218787951&perks=839105230,1885400500,3161816588,47981717
+dimwishlist:item=218787951&perks=839105230,1885400500,3161816588,1194056669
+dimwishlist:item=218787951&perks=839105230,1885400500,3161816588,591790007
+dimwishlist:item=218787951&perks=839105230,1885400500,588594999,47981717
+dimwishlist:item=218787951&perks=839105230,1885400500,588594999,1194056669
+dimwishlist:item=218787951&perks=839105230,1885400500,588594999,591790007
+
+
+// The Palindrome - The Palindrome (pve,controller)
+//notes: Masterwork: Reload Speed, B-tier PvE, The gun that made me quit Destiny 2 tags:pve,controller
+dimwishlist:item=739029152&perks=1840239774,3230963543,3038247973,3081867624
+dimwishlist:item=739029152&perks=1840239774,3230963543,3038247973,2173046394
+
+
+// The Palindrome - The Palindrome (controller,pvp)
+//notes: Masterwork: Range, A-tier PvP (blueberry.gg), The gun that made me quit Destiny 2 tags:controller,pvp
+dimwishlist:item=739029152&perks=1482024992,3142289711,2579169598,957782887
+dimwishlist:item=739029152&perks=1482024992,3142289711,2579169598,3081867624
+dimwishlist:item=739029152&perks=1482024992,3142289711,3038247973,957782887
+dimwishlist:item=739029152&perks=1482024992,3142289711,3038247973,3081867624
+
 
 // Chroma Rush - Chroma Rush (pve,controller)
 //notes: Masterwork: Stability tags:pve,controller
@@ -19,8 +56,33 @@ dimwishlist:item=771811871&perks=1482024992,3177308360,2450788523,1015611457
 dimwishlist:item=771811871&perks=1482024992,3177308360,2450788523,365154968
 
 
+// Salvager's Salvo - Salvager's Salvo (pve,controller)
+//notes: Masterwork: Reload Speed, A-tier PvE (blueberries.gg) tags:pve,controller
+dimwishlist:item=1692109318&perks=981914802,3301904089,1115162408,1546637391
+dimwishlist:item=1692109318&perks=981914802,3301904089,1115162408,2173046394
+dimwishlist:item=1692109318&perks=981914802,3301904089,2396489472,1546637391
+dimwishlist:item=1692109318&perks=981914802,3301904089,2396489472,2173046394
+
+
+// The Hothead - The Hothead (controller,god-pve)
+//notes: Masterwork: Velocity, S-tier PvE (blueberries.gg) tags:controller,god-pve
+dimwishlist:item=1692372662&perks=3525010810,3796465595,3987942396,3764420437
+dimwishlist:item=1692372662&perks=3525010810,3796465595,3987942396,3078487919
+dimwishlist:item=1692372662&perks=3525010810,3796465595,3987942396,1439600632
+dimwishlist:item=1692372662&perks=3525010810,3796465595,1523832109,3764420437
+dimwishlist:item=1692372662&perks=3525010810,3796465595,1523832109,3078487919
+dimwishlist:item=1692372662&perks=3525010810,3796465595,1523832109,1439600632
+
+
+// The Hothead - The Hothead (controller,pvp)
+//notes: Masterwork: Velocity, C-tier PvP (blueberries.gg) tags:controller,pvp
+dimwishlist:item=1692372662&perks=3525010810,2822142346,951095735,3194351027
+dimwishlist:item=1692372662&perks=3525010810,2822142346,3977735242,3194351027
+dimwishlist:item=1692372662&perks=3525010810,2822142346,3300816228,3194351027
+
+
 // Mint Retrograde - Mint Retrograde (pve,controller)
-//notes: masterwork: handling tags:pve,controller
+//notes: Masterwork: Handling, A-tier PvE (blueberries.gg) tags:pve,controller
 dimwishlist:item=1715391576&perks=3525010810,2420895100,2869569095,3081867624
 dimwishlist:item=1715391576&perks=3525010810,2420895100,2869569095,4104185692
 dimwishlist:item=1715391576&perks=3525010810,2420895100,2869569095,1089671869
@@ -47,10 +109,10 @@ dimwishlist:item=1884897339&perks=1840239774,3230963543,960997401,95528736
 
 // Lethal Abundance -  Lethal Abundance (pve,controller)
 //notes: Masterwork: Stability tags:pve,controller
-dimwishlist:item=1884897339&perks=3661387068,3142289711,2387244414,1890422124,3989629871,3989629871
-dimwishlist:item=1884897339&perks=3661387068,3142289711,2387244414,365154968,3989629871,3989629871
-dimwishlist:item=1884897339&perks=3661387068,3142289711,1359896290,1890422124,3989629871,3989629871
-dimwishlist:item=1884897339&perks=3661387068,3142289711,1359896290,365154968,3989629871,3989629871
+dimwishlist:item=1884897339&perks=3661387068,3142289711,2387244414,1890422124,3989629871
+dimwishlist:item=1884897339&perks=3661387068,3142289711,2387244414,365154968,3989629871
+dimwishlist:item=1884897339&perks=3661387068,3142289711,1359896290,1890422124,3989629871
+dimwishlist:item=1884897339&perks=3661387068,3142289711,1359896290,365154968,3989629871
 
 
 // Autumn Wind - Autumn Wind (pve,controller)
