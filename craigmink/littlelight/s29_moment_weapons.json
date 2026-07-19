@@ -1,0 +1,412 @@
+{
+    "description": "All updated versions of weapons from Moment of Triumph ",
+    "name": "s29_monument_weapons",
+    "data": [
+        {
+            "description": "Masterwork: Handling, A-tier PvE (blueberries.gg)",
+            "hash": 1715391576,
+            "name": "Mint Retrograde",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    2869569095,
+                    831391274,
+                    3987942396
+                ],
+                [
+                    3081867624,
+                    4104185692,
+                    1089671869
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "masterwork: Velocity, Reload Speed",
+            "hash": 3377522331,
+            "name": "Liturgy",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    3987942396,
+                    1955165503
+                ],
+                [
+                    2978966579,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "Controller",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Velocity",
+            "hash": 3377522331,
+            "name": "Liturgy",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2039302152
+                ],
+                [
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "Controller"
+            ]
+        },
+        {
+            "description": "Masterwork: Stability",
+            "hash": 771811871,
+            "name": "Chroma Rush",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    1820235745,
+                    2289534249
+                ],
+                [
+                    3891536761,
+                    1015611457,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "Masterwork: Stability",
+            "hash": 771811871,
+            "name": "Chroma Rush",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3177308360
+                ],
+                [
+                    1359896290,
+                    2450788523
+                ],
+                [
+                    1015611457,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "Controller",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Handling",
+            "hash": 1884897339,
+            "name": " Lethal Abundance",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3828510309,
+                    923806249,
+                    960997401
+                ],
+                [
+                    831391274,
+                    4049631843,
+                    95528736
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "Masterwork: Stability",
+            "hash": 1884897339,
+            "name": " Lethal Abundance",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2387244414,
+                    1359896290
+                ],
+                [
+                    1890422124,
+                    365154968
+                ],
+                [
+                    3989629871
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "Masterwork: any",
+            "hash": 2459087496,
+            "name": "Autumn Wind",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    3425386926,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "Masterwork: Stability",
+            "hash": 2459087496,
+            "name": "Autumn Wind",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    460017080
+                ]
+            ],
+            "tags": [
+                "Controller",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Stability, B-tier PvE (blueberries.gg)",
+            "hash": 218787951,
+            "name": "Gunnora's Axe",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    4071163871,
+                    3017780555
+                ],
+                [
+                    555281244,
+                    3751912585,
+                    4293542123
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "Masterwork: Handling, B-tier PvP (blueberries.gg)\n",
+            "hash": 218787951,
+            "name": "Gunnora's Axe",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1885400500
+                ],
+                [
+                    2579169598,
+                    3161816588,
+                    588594999
+                ],
+                [
+                    47981717,
+                    1194056669,
+                    591790007
+                ]
+            ],
+            "tags": [
+                "Controller",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload Speed, B-tier PvE, The gun that made me quit Destiny 2\n",
+            "hash": 739029152,
+            "name": "The Palindrome",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3038247973
+                ],
+                [
+                    3081867624,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "Masterwork: Range, A-tier PvP (blueberry.gg), The gun that made me quit Destiny 2\n\n",
+            "hash": 739029152,
+            "name": "The Palindrome",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2579169598,
+                    3038247973
+                ],
+                [
+                    957782887,
+                    3081867624
+                ]
+            ],
+            "tags": [
+                "Controller",
+                "PVP"
+            ]
+        },
+        {
+            "description": "Masterwork: Reload Speed, A-tier PvE (blueberries.gg)",
+            "hash": 1692109318,
+            "name": "Salvager's Salvo",
+            "plugs": [
+                [
+                    981914802
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    1115162408,
+                    2396489472
+                ],
+                [
+                    1546637391,
+                    2173046394
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "Controller"
+            ]
+        },
+        {
+            "description": "Masterwork: Velocity, S-tier PvE (blueberries.gg)",
+            "hash": 1692372662,
+            "name": "The Hothead",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    3987942396,
+                    1523832109
+                ],
+                [
+                    3764420437,
+                    3078487919,
+                    1439600632
+                ]
+            ],
+            "tags": [
+                "Controller",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Masterwork: Velocity, C-tier PvP (blueberries.gg)",
+            "hash": 1692372662,
+            "name": "The Hothead",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735,
+                    3977735242,
+                    3300816228
+                ],
+                [
+                    3194351027
+                ]
+            ],
+            "tags": [
+                "Controller",
+                "PVP"
+            ]
+        }
+    ]
+}
